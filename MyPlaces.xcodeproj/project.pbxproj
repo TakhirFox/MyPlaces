@@ -15,6 +15,7 @@
 		AD7D63C423EF3D8B0058618F /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7D63C323EF3D8B0058618F /* MainViewController.swift */; };
 		ADBD3B1223F058FA002E9618 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD3B1123F058FA002E9618 /* CustomTableViewCell.swift */; };
 		ADBD3B1423F16CF8002E9618 /* placeModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD3B1323F16CF8002E9618 /* placeModal.swift */; };
+		ADBD3B1623F1788C002E9618 /* NewPlaceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBD3B1523F1788C002E9618 /* NewPlaceViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		AD7D63C323EF3D8B0058618F /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		ADBD3B1123F058FA002E9618 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		ADBD3B1323F16CF8002E9618 /* placeModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = placeModal.swift; sourceTree = "<group>"; };
+		ADBD3B1523F1788C002E9618 /* NewPlaceViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPlaceViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				AD7D63C323EF3D8B0058618F /* MainViewController.swift */,
 				AD7D63B123EF3A120058618F /* SceneDelegate.swift */,
 				AD7D63B523EF3A120058618F /* Main.storyboard */,
+				ADBD3B1523F1788C002E9618 /* NewPlaceViewController.swift */,
 				ADBD3B1123F058FA002E9618 /* CustomTableViewCell.swift */,
 				ADBD3B1323F16CF8002E9618 /* placeModal.swift */,
 				AD7D63B823EF3A160058618F /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD7D63C423EF3D8B0058618F /* MainViewController.swift in Sources */,
+				ADBD3B1623F1788C002E9618 /* NewPlaceViewController.swift in Sources */,
 				AD7D63B023EF3A120058618F /* AppDelegate.swift in Sources */,
 				ADBD3B1223F058FA002E9618 /* CustomTableViewCell.swift in Sources */,
 				AD7D63B223EF3A120058618F /* SceneDelegate.swift in Sources */,
